@@ -64,3 +64,6 @@ npm install react-native-linear-gradient
 
 ## Image Colors
 npm i react-native-image-colors
+```
+
+<img src="https://github.com/elvisseguraa/react-native-movies/assets/61357733/3bb48f2a-12cb-4ded-b723-5cd139a225af" width="270" height="585">
